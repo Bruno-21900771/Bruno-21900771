@@ -34,6 +34,7 @@ nav a:hover {
 /* Conteúdo */
 main {
   background: white;
+  flex: 1;
   margin: 20px 10px;
   padding: 20px;
   border-radius: 20px;
@@ -44,6 +45,5 @@ footer {
   background-color: #384959;
   color: white;
   text-align: center;
-  padding: 10px 0;
-  margin-top: 10px;
+  padding: 10px;
 }
