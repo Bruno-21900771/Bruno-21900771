@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background-color: #BDDDFC; /* azul pastel claro */
+  background-color: #BDDDFC; 
   color: #1e1e1e;
 }
 
@@ -28,7 +28,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #88BDF2; /* azul claro no hover */
+  color: #88BDF2; 
 }
 
 /* Conteúdo */
