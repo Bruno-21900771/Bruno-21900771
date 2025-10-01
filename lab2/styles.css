@@ -34,7 +34,7 @@ nav a:hover {
 /* Conteúdo */
 main {
   background: white;
-  margin: 20px 0;
+  margin: 20px 10px;
   padding: 20px;
 }
 
@@ -44,5 +44,5 @@ footer {
   color: white;
   text-align: center;
   padding: 10px 0;
-  margin-bottom: 10px;
+  margin-top: 10px;
 }
